@@ -86,7 +86,6 @@
   date: 2025-11-23
   authors: Akaki Mamageishvili, Christoph Schlegel (Flashbots), Ko Sunghun, Jinsuk Park, Ali Taslimi
   url: https://arxiv.org/abs/2511.18328
-  venue: preprint
 - category: ethresear.ch Post
   title: Dynamic Penalties for ePBS
   date: 2025-11-19
@@ -97,7 +96,6 @@
   date: 2025-10-24
   authors: Christoph Schlegel (Flashbots), Xinyuan Sun (Flashbots)
   url: https://arxiv.org/abs/2510.21904
-  venue: preprint
 - category: Academic Papers
   title: Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains
   date: 2025-10-22
@@ -155,7 +153,6 @@
   date: 2025-07-02
   authors: Christoph Schlegel (Flashbots), Quintus Kilbourn (Flashbots)
   url: https://arxiv.org/abs/2507.02027
-  venue: preprint
 - category: Flashbots Collective Forum Posts
   title: Defining Geographic Decentralisation
   date: 2025-06-27
@@ -445,13 +442,11 @@
   date: 2026-09-15
   authors: Christoph Schlegel (Flashbots)
   url: https://arxiv.org/abs/2609.17395
-  venue: preprint
 - category: Academic Papers
   title: Bi-Compositional Division Rules
   date: 2026-09-01
   authors: Christoph Schlegel (Flashbots)
   url: https://arxiv.org/abs/2609.01489
-  venue: preprint
 - category: Academic Papers
   title: The Geography of (Concurrent) Block Proposing
   date: 2026-10-13
